@@ -9,8 +9,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  THE CHOSEN 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86850849dda3ad75775a278996a950152eb9018f</link>
+<title>[COLOR silver][B]  THE CHOSEN-O ESCOLHIDO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04ed474591b7ac6b12c516e68c4eaade5049b4b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kbAheGTyuU0vCWOjzeFkd24bPuJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Determinados a levar a vacina contra o vírus zika a uma região remota do Pantanal, três médicos entram em conflito com um curandeiro local e seu misterioso culto.</info>
