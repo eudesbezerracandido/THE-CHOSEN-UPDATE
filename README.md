@@ -17,10 +17,13 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  THE CHOSEN-3º TEMPORADA EM BREVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/bGdEtvWSlYVFUKil9GNXOYnO7jE.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<title>[COLOR silver][B]  THE CHOSEN-3º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE738DEB2DEBCBF071337A1732D64EE7DF8A27A1$nome=THE CHOSEN EP.1/4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A65E67F6253369E030B79E02831B0258C1303984$nome=THE CHOSEN EP.5/6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C86ADA78CFD20314B863D98FEDAD509334ED3EE$nome=THE CHOSEN EP.7/8</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7voxa3bVB1c3upLsTtrsdFRcbug.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Depois que Jesus completa um sermão que vira o mundo de cabeça para baixo, todos os 12 discípulos (incluindo o recém-chegado Judas) estão prontos para segui-lo até os confins da terra. Mas os problemas permanecem.</info>
 </item>
 
